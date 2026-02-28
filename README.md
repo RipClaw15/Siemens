@@ -10,6 +10,20 @@
 
 <img width="1878" height="935" alt="image" src="https://github.com/user-attachments/assets/5dddd1cc-7d93-4980-91b1-e6ee694cba24" />
 
+The tables in the database are:
+SHOP
+BARISTA
+CUSTOMER
+BEVERAGE
+SIZE
+PRODUCT
+EXTRA
+ORDER
+ORDER_ITEM
+ORDER_ITEM_EXTRA
+REDEMPTION
+POINTS_LEDGER
+
 ## Problem 2
 
 **2.1 Necessary C# classes**
