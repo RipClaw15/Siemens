@@ -53,3 +53,8 @@ I implemented this method into the **FactOrder** Class
 <img width="958" height="449" alt="2 4" src="https://github.com/user-attachments/assets/3c9e2e84-934f-4f70-a574-8635add1d046" />
 
 I used a Dictionary data structure, which made it super easy to "hold" (group) the two values needed to return (product, quantity sold)
+
+### Example with some random data
+
+<img width="781" height="789" alt="image" src="https://github.com/user-attachments/assets/766c3807-6570-42d7-ace4-67dee13f714c" />
+
