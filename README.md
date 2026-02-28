@@ -8,8 +8,7 @@
 
 **1.2 ER Diagram**
 
-<img width="1869" height="902" alt="1 2 ER Diagram" src="https://github.com/user-attachments/assets/c7d09254-cb54-4ed5-9a8e-6100fa16a1a5" />
-
+<img width="1878" height="935" alt="image" src="https://github.com/user-attachments/assets/5dddd1cc-7d93-4980-91b1-e6ee694cba24" />
 
 ## Problem 2
 
@@ -18,7 +17,6 @@
 ### Order Class
 
 <img width="986" height="685" alt="2 1" src="https://github.com/user-attachments/assets/01b272f6-8e34-4263-9a10-409b000494c4" />
-
 
 ### OrderItem Class
 
